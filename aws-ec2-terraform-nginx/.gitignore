@@ -1,0 +1,23 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+*.hcl
+
+# Terraform plan output
+*.tfplan
+
+# Crash log
+crash.log
+
+# Local Terraform directories
+.terraform/
+
+# SSH private keys
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
